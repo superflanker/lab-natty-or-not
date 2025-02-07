@@ -5,7 +5,7 @@ Este podcast de 3 minutos apresenta o produto principal da StormEye - O sensor S
 
 ## 🤖 Tecnologias Utilizadas
 - O texto em português é de autoria de Augusto Mathias Adams
-- IA Generativa **[ChatGPT](https://chat.openai.com)** tradução ao inglês;
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para a  tradução ao inglês;
 - IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para sintetização de voz;
 
 ## 🧐 Processo de Criação
