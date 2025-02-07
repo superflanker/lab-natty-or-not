@@ -18,6 +18,6 @@ O episódio é um teste com resultados significativos para a geração de conte�
 - A articulação das palavras e a fluidez da narração reforçam a naturalidade da comunicação, tornando a experiência auditiva mais envolvente e convincente.
 - Além disso, a coerência do discurso e a variação tonal contribuem para a sensação de autenticidade, aproximando ainda mais a locução da experiência humana real.
 
-**[Versão em Português](podcast_português.mp3)**
+🎙️**[Versão em Português](podcast_português.mp3)**
 
-**[Versão em Inglês](podcast_ingles.mp3)**
+🎙️**[Versão em Inglês](podcast_ingles.mp3)**
